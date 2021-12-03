@@ -26,7 +26,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav">
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Projects</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
@@ -49,8 +49,8 @@
                     </div>
                     <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
                     <div class="social-icons">
-                        <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="https://www.linkedin.com/in/ashutosh-koli-283a64210/"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="https://github.com/Ashu4638"><i class="fab fa-github"></i></a>
                         <a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a>
                         <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a>
                     </div>
@@ -63,35 +63,40 @@
                     <h2 class="mb-5">Projects</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Senior Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                            <h3 class="mb-0">Algorithm Visualizer</h3>
+                            <div class="subheading mb-3">Python</div>
+                            <ul>
+                                <li>This System is Developed using Python to Demonstrate the working of Searching and Sorting Algorithms. </li>
+                                <li>2D shapes are used to visualize the working of algorithms.</li>
+                                <li>It will work for the benefits of the students and help them to understand working of different searching and sorting algorithms. </li>
+                            </ul>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2021</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                            <h3 class="mb-0">Auto Baby Cry Detection and Music Player</h3>
+                            <div class="subheading mb-3">Python and Machine Learning</div>
+                            <ul>
+                                <li>System is developed to monitor and detect infant cry and send alert messages to parents. </li>
+                                <li>It is Developed using Python and Machine Learning, we have used KNN algorithm to train the model and detect infant Cry.</li>
+                                <li>If the Infant Cry is detected then an alert message will be sent to the parent and It will play Music. It will continuously monitor the infant cry and if the infant stops crying after playing certain music then our system will detect it and next time when the Infant cries same music will be played first. We have used Priority Queue for this purpose. </li>
+                            </ul>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2013</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">December 2021</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Junior Web Designer</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+                            <h3 class="mb-0">OS Simulation</h3>
+                            <div class="subheading mb-3">C++ and Data Structures</div>
+                            <ul>
+                                <li>Developed to demonstrate the working of Microprocessor & its basic operations.</li>
+                                <li>It will demonstrate how basic read write operations are performed and will display the current state of
+Registers, Instruction Registers, Instruction Counter and Toggle after execution of each instruction.</li>
+                                <li>It is developed using C++ and Data Structures. </li>
+                            </ul>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">July 2010 - December 2011</span></div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Design Intern</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">July 2021</span></div>
                     </div>
                 </div>
             </section>
