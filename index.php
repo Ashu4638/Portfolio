@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Resume - Start Bootstrap Theme</title>
+        <title>Resume - Ashutosh Koli</title>
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
@@ -19,8 +19,8 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                <span class="d-block d-lg-none">Clarence Taylor</span>
-                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="..." /></span>
+                <span class="d-block d-lg-none">Ashutosh Koli</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpeg" alt="..." /></span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -47,7 +47,9 @@
                         553/B Juni Peth · Pandharpur, 413304 · (+91) 8308224638 ·
                         <a href="mailto:ashutoshkoli24@gmail.com">ashutoshkoli24@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+                    <p class="lead mb-5">
+                    I am a student majoring in Computer engineering at Vishwakarma Institute of Technology, Pune, and am seeking an internship opportunity. I am interested in software development and testing. I have completed several engineering projects throughout my course. I would love to be a part of sustainable work culture. I’d love it if you went through my resume and considered me for an interview.
+                    </p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/ashutosh-koli-283a64210/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://github.com/Ashu4638"><i class="fab fa-github"></i></a>
@@ -63,7 +65,7 @@
                     <h2 class="mb-5">Projects</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Algorithm Visualizer</h3>
+                            <a href = "https://github.com/Ashu4638/Algorithm-Visualizer"><h3 class="mb-0">Algorithm Visualizer</h3></a>
                             <div class="subheading mb-3">Python</div>
                             <ul>
                                 <li>This System is Developed using Python to Demonstrate the working of Searching and Sorting Algorithms. </li>
@@ -75,7 +77,7 @@
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Auto Baby Cry Detection and Music Player</h3>
+                            <a href = "https://github.com/Ashu4638/Auto-Baby-Cry-Detection-and-Music-Player"><h3 class="mb-0">Auto Baby Cry Detection and Music Player</h3></a>
                             <div class="subheading mb-3">Python and Machine Learning</div>
                             <ul>
                                 <li>System is developed to monitor and detect infant cry and send alert messages to parents. </li>
@@ -87,7 +89,7 @@
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">OS Simulation</h3>
+                           <a href = "https://github.com/Ashu4638/Microprocessor-Simulation"> <h3 class="mb-0">OS Simulation</h3></a>
                             <div class="subheading mb-3">C++ and Data Structures</div>
                             <ul>
                                 <li>Developed to demonstrate the working of Microprocessor & its basic operations.</li>
@@ -117,7 +119,8 @@ Registers, Instruction Registers, Instruction Counter and Toggle after execution
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Shri Vitthal Education and Research Institutes College of Engineering and Polytechnic, Pandharpur</h3>
-                            <div class="subheading mb-3">Information Technology</div>
+                            <div class="subheading mb-3">Diploma</div>
+                            <div>Information Technology</div>
                             <p>PERCENTAGE: 94.88</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2018 - May 2020</span></div>
@@ -167,8 +170,8 @@ Registers, Instruction Registers, Instruction Counter and Toggle after execution
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                    <p>Apart from being a developer, I enjoy most of my time being outdoors.</p>
+                    <p class="mb-0">When indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an excellent carrom player, I also like playing chess and other Strategic Games, and I spend a large amount of my free time exploring the latest technology advancements in the development world.</p>
                 </div>
             </section>
             <hr class="m-0" />
