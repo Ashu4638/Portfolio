@@ -26,7 +26,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav">
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
@@ -58,7 +58,7 @@
             </section>
             <hr class="m-0" />
             <!-- Experience-->
-            <section class="resume-section" id="experience">
+            <section class="resume-section" id="projects">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Projects</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -129,38 +129,35 @@ Registers, Instruction Registers, Instruction Counter and Toggle after execution
             <section class="resume-section" id="skills">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Skills</h2>
-                    <div class="subheading mb-3">Programming Languages & Tools</div>
-                    <ul class="list-inline dev-icons">
-                        <li class="list-inline-item"><i class="fab fa-html5"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-angular"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-sass"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-less"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-gulp"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-grunt"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-npm"></i></li>
-                    </ul>
-                    <div class="subheading mb-3">Workflow</div>
+                    <div class="subheading mb-3">Programming Languages & Skills</div>
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Mobile-First, Responsive Design
+                            C/C++
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Browser Testing & Debugging
+                            Java
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Functional Teams
+                            Python
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Agile Development & Scrum
+                            JavaScript
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            MySQL/OracleDB
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Machine Learning
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Problem Solving
                         </li>
                     </ul>
                 </div>
@@ -182,42 +179,37 @@ Registers, Instruction Registers, Instruction Counter and Toggle after execution
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Google Analytics Certified Developer
+                            TechnoWings International IT Solutions Inplant Training Certification
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Mobile Web Specialist - Google Certification
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2009
+                            Microsoft MTA: Database Fundamentals - Microsoft Certification
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             1
                             <sup>st</sup>
-                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
+                            Place - SVERI's College of Engineering, Pandharpur - Paper Presentation Competition 2020
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            1
+                            <sup>st</sup>
+                            Place - SVERI's College of Engineering, Pandharpur - Java Programming Competition 2020
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             2
                             <sup>nd</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2008
+                            Place - Solapur Youth Festival - Project Competition 2020
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - James Buchanan High School - Hackathon 2006
+                            2
+                            <sup>nd</sup>
+                            Place - Solapur Zonals - Carrom Competition (2019-2020)
                         </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            3
-                            <sup>rd</sup>
-                            Place - James Buchanan High School - Hackathon 2005
-                        </li>
+                        
                     </ul>
                 </div>
             </section>
